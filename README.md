@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Website Layout and Animation</span>
+  <span class="headline">CSS, Accessiblity, and Responsive Design</span>
 </h1>
 
 ## About
