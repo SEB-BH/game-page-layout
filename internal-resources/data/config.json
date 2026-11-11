@@ -1,0 +1,151 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "Website Layout and Animation",
+    "name": "game-page-layout",
+    "type": "Lesson"
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Size the Content",
+          "dirName": "size-the-content",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Arrange Related Items",
+          "dirName": "arrange-the-game-page",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Fit Different Screens",
+          "dirName": "fit-different-screens",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Make the Page Easy to Use",
+          "dirName": "make-the-page-easy-to-use",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Animate a Simple Sprite",
+          "dirName": "keyframes-and-sprites",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "seb",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Size the Content",
+          "dirName": "size-the-content",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Arrange Related Items",
+          "dirName": "arrange-the-game-page",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Fit Different Screens",
+          "dirName": "fit-different-screens",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Make the Page Easy to Use",
+          "dirName": "make-the-page-easy-to-use",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Animate a Simple Sprite",
+          "dirName": "keyframes-and-sprites",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}
