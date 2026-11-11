@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Website Layout and Animation</span>
+  <span class="headline">CSS, Accessiblity, and Responsive Design</span>
   <span class="subhead">Setup</span>
 </h1>
 
